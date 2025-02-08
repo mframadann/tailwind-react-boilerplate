@@ -9,6 +9,7 @@ export const SectionAdopt = () => {
         title='Adopt the pet that has waited too long'
         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit. It ac purus eget. Sit dolor est proin vestibulum, duis. im dolor sit amet, consectetur adipisci.'
       />
+      <Button text='sdsdsdsd' />
     </div>
   );
 };

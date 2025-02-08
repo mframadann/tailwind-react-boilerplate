@@ -1,3 +1,5 @@
+// import gambar from "../../assets/images/anime.jpg"
+
 export const Button = ({ actionFn, text }) => {
   return (
     <button
